@@ -7,12 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in **AI in Education** at the University of Memphis, where I research the intersection of artificial intelligence and learning sciences. My work focuses on **large language models (LLMs)**, **transformer-based architectures**, and **knowledge tracing** to model and understand student learning behaviors using large-scale educational data.
+I am a PhD student in **Computer Science** at the University of Memphis, where I research the intersection of artificial intelligence and learning sciences. My work focuses on **large language models (LLMs)**, **transformer-based architectures**, and **knowledge tracing** to model and understand student learning behaviors using large-scale educational data.
 
 ## Research Interests
-- Large Language Models (LLMs) in educational contexts
-- Knowledge tracing and student learning modeling
-- Transformer architectures for sequential learning data
+- Large Language Models (LLMs) and natural language processing
+- Sequential modeling and user behavior prediction
+- Transformer architectures for time-series and structured data
+- Knowledge representation and personalized AI systems
 
 ## Background
 
